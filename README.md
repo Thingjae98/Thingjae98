@@ -91,7 +91,7 @@ KRX 전 종목을 기술적 분석으로 자동 점수화하고 AI 주가 예측
 ## 📬 연락처
 
 - **GitHub**: [github.com/Thingjae98](https://github.com/Thingjae98)
-- **Email**: *(이메일 주소 추가)*
+- **Email**: *mj98531@gmail.com*
 - **Blog/Notion**: *(선택 사항)*
 
 ---
